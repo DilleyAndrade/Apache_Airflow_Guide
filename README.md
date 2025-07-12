@@ -40,7 +40,7 @@ As DAGs abordam diversos recursos e funcionalidades do Airflow, incluindo:
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/airflow-curso.git
+git clone https://github.com/DilleyAndrade/Apache_Airflow_Guide.git
 cd Apache_Airflow_Guide
 ```
 
