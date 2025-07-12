@@ -69,4 +69,9 @@ http://localhost:8080
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT.
-# Apache_Airflow_Guide
+
+
+Dilley Andrade | Data engineer
+(81) 98663-2609 | dilleyandrade@gmail.com | linkedin.com/in/dilleyandrade | github.com/DilleyAndrade
+
+
